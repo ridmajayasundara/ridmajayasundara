@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ridmajayasundara
 - 👀 I’m interested in Machine Learning, Computer Architecture 
-- 🌱 I’m currently learning Embedded Systems, Algorithems and Data Structures, Networking Security
+- 🌱 I’m currently learning Embedded Systems, Algorithems and Data Structures, Network Security
 - 💞️ I’m currently working on 3rd Year Project.
 - 📫 How to reach me ... : 📧 e18155@eng.pdn.ac.lk | IG : https://www.instagram.com/ridmajayasundara/ 
 
