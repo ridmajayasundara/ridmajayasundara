@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridmajayasundara
-- 🌱 I’m currently learning Machine Learning, Algorithms and Data Structures and Advance Computer Networks.
+- 🌱 Final year computer engineering undergrad at University of Peradeniya.
 - 📫 How to reach me ... : 📧 e18155@eng.pdn.ac.lk
 
 <!---
